@@ -1,2 +1,2 @@
-# CYOR
+# CYON
 Create Your Own NFT
